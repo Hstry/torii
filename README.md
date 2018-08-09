@@ -527,7 +527,6 @@ Torii comes with several providers already included:
   * Facebook Connect (via FB SDK) ([Dev Site](https://developers.facebook.com/) | [Docs](https://developers.facebook.com/docs/))
   * Facebook OAuth2 ([Dev Site](https://developers.facebook.com/) | [Docs](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow/))
   * Stripe Connect (OAuth2) ([Dev Site](https://stripe.com/docs) | [Docs](https://stripe.com/docs/connect))
-  * Edmodo Connect (OAuth2) ([Dev Site](https://developers.edmodo.com/) | [Docs](https://developers.edmodo.com/edmodo-connect/docs/))
   * **Authoring custom providers is designed to be easy** - You are encouraged to author your own.
 
 ### Supporting OAuth 1.0a
@@ -676,8 +675,10 @@ There are a number of ember-cli addons that allow you to use Torii with other pr
   * [torii-provider-meetup-oauth2](https://github.com/gmurphey/torii-provider-meetup-oauth2) via @gmurphey
   * [torii-spotify](https://github.com/balinterdi/torii-spotify) via @balinterdi
   * [torii-azure-provider](https://github.com/ghurlman/torii-azure-provider) via @ghurlman
+  * [torii-azure-ad2-provider](https://github.com/erikap/torii-azure-ad2-provider) via @erikap
   * [torii-provider-arcgis](https://github.com/dbouwman/torii-provider-arcgis) via @dbouwman
   * [torii-globe](https://github.com/jedld/torii-globe) via @jedld
+  * [torii-edmodo-connect](https://github.com/sutori/torii-edmodo-connect) via @YoranBrondsema
 
 ## Running the tests locally
 
